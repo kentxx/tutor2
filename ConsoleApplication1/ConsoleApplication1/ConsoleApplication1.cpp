@@ -7,6 +7,7 @@
 int main()
 {
     std::cout << "Hello World!\n"; 
+	std::cout << "変更１：ショートカットからsln作成＆保存!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
